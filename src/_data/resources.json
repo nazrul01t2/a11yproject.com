@@ -601,6 +601,13 @@
 			"url": "http://wearecolorblind.com/"
 		},
 		{
+		"title":"Color Picker From Image",
+			"description":"This is an image color picker that can help you find the color on the image, support HTML HEX code, RGB color code. Free online color tool, no install needed, easy and convenient operation, just take a photo and upload it, then click on the picture, you will get color code.",
+			"additional":"https://imagecompresser.com/",
+			"url": "https://imagecompresser.com/image-color-picker"
+		
+		},
+		{
 			"title": "Who Can Use",
 			"description": "A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.",
 			"additional": "Corey Ginnivan",
